@@ -124,4 +124,3 @@ If you're still having problems, please open an issue in this repository.
 ---
 
 Made with ❤️ by AK
-```
