@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mern-food-delivery-app.git
+   git clone https://github.com/Ayushkr0005/food_delivery_website.git
    cd mern-food-delivery-app
    ```
 
