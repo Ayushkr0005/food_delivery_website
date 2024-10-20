@@ -56,20 +56,6 @@ Before you begin, ensure you have met the following requirements:
 
 5. Open your browser and navigate to `http://localhost:3000`
 
-## 📁 Project Structure
-
-```
-mern-food-delivery-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.js
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
-```
 
 ## 📜 Available Scripts
 
