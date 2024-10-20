@@ -90,19 +90,6 @@ This builds the app for production to the `build` folder. It correctly bundles R
 
 For more information on deployment, check out the [deployment section](https://facebook.github.io/create-react-app/docs/deployment) in the Create React App documentation.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgements
 
